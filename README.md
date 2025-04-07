@@ -11,3 +11,5 @@ We had to alternate between using the keyboard and mouse by plugging them in alt
 
 ## Q4: Can you think of a real-world problem that could be solved using the Jetson Nano? Describe how you would design and implement a solution.
 You dont need cloud, so perfect for small scale self driving cars.
+
+![JetsonNano](https://github.com/user-attachments/assets/807b8363-ca1f-4606-95db-a4355cd67124)
